@@ -3,9 +3,6 @@ package ADONet.Odbc;
 import system.Console;
 import system.data.odbc.*;
 
-/*
-The code in this example assumes that you can connect to the Microsoft Access Northwind sample database. The code creates a OdbcCommand to select rows from the Products table, adding a OdbcParameter to restrict the results to rows with a UnitPrice greater than the specified parameter value, in this case 5. The OdbcConnection is opened inside a using block, which ensures that resources are closed and disposed when the code exits. The code executes the command by using a OdbcDataReader, and displays the results in the console window.
- */
 public class Program {
     public static void main(String[] args) {
 
