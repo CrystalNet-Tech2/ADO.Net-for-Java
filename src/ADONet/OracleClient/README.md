@@ -1,0 +1,1 @@
+The code in this example assumes a connection to DEMO.CUSTOMER on an Oracle server. You must also add a reference to the System.Data.OracleClient.dll. The code returns the data in an OracleDataReader.
