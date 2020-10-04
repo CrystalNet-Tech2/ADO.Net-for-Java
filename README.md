@@ -25,4 +25,4 @@ To run the tutorial project:
 * Clone the repository to your local machine.
 * Download latest release of dotNet4Java Setup and Install: http://www.crystalnet-tech.com/Products/dotNet4Java/download
 * Open the project using InterlliJ IDEA or other JAVA IDE of your choice.
-* Add the dotNet4Java JAR from the installation to the tutorial project.
+* Add the dotNet4Java JAR files from the installation to the tutorial project.
