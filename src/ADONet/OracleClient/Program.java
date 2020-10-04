@@ -3,9 +3,6 @@ package ADONet.OracleClient;
 import system.Console;
 import system.data.oracleclient.*;
 
-/*
-The code in this example assumes a connection to DEMO.CUSTOMER on an Oracle server. You must also add a reference to the System.Data.OracleClient.dll. The code returns the data in an OracleDataReader.
- */
 public class Program {
     public static void main(String[] args) {
 
